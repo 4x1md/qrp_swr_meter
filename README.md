@@ -6,7 +6,7 @@ To be completed...
 
 ## Schematic
 
-![Schematic](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/doc/images/swr_meter_schematic.png)
+![Schematic](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_schematic.png)
 
 ## Links
 
