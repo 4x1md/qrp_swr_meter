@@ -8,6 +8,14 @@ To be completed...
 
 ![Schematic](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_schematic.png)
 
+## Reference Circuits
+
+This project is not the first of this kind. My main source of inspiration was [Wideband SWR meter by Manfred Mornhinweg XQ6FOD](http://ludens.cl/Electron/swr/swr.html).
+
+![Schematic](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/xq2fod_swr_meter.jpg)
+
+More similar circuits can be found in [links section](#links) of this document and on the internet.
+
 ## Links
 
 1. [Wideband SWR meter by Manfred Mornhinweg XQ6FOD](http://ludens.cl/Electron/swr/swr.html) ([circuit 1](http://users.belgacom.net/hamradio/schemas/swrmeter.GIF))
