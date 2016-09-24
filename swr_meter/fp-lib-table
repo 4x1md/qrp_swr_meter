@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name swr_meter_custom_lib)(type KiCad)(uri "$(KIPRJMOD)\\swr_meter_custom_lib.pretty")(options "")(descr ""))
+)
