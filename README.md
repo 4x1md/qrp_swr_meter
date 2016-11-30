@@ -75,6 +75,9 @@ The board fits the box perfectly.
 
 ![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_box.jpg)
 
+:warning: **Important Note!**
+Minimum order at the factory was 10 boards from which I need only two. As of December 1, 2016, I have 8 boards, which I can give away. If you'd like to build this SWR-meter for yourself, I can send you a board. Feel free to contact me. 
+
 ### Assembled Device
 
 ![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_assembled_1.jpg)
