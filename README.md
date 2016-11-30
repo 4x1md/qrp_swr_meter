@@ -79,7 +79,7 @@ The board fits the box perfectly.
 
 ![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_assembled_1.jpg)
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_assemble2.jpg)
+![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_assembled_2.jpg)
 
 ![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_assembled.jpg)
 
