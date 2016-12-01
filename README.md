@@ -55,7 +55,7 @@ The PCB was made at home using [toner transfer method](http://www.instructables.
 
 ### Second Prototype
 
-After getting the previous prototype to work well, I decided to put the device in an enclosure box. For that matter I chose a 83x58x35mm which is sold cheap on AliExpress.
+After getting the previous prototype to work well, I decided to put the device in an enclosure box. For that matter I chose a 83x58x35mm plastic box with transparent cover which is sold cheap on AliExpress.
 
 ![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/enclosure_box.jpg)
 
