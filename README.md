@@ -22,7 +22,7 @@ Other similar circuits can be found in [links section](#links) of this document 
 
 In general, this circuit requires widely available easy to get parts.
 
-The microampermeter I used for SWR indication is actually a tuning indicator from an old radio receiver. Its full deflection current is 250uA and internal resistance is about 1.2K. These values are not critical and almost any microampermeter.
+The microampermeter I used for SWR indication is actually a tuning indicator from an old radio receiver. Its full deflection current is 250uA and internal resistance is about 1.2K. These values are not critical and almost any microampermeter will work fine.
 
 Circuit alignment showed that more critical parts are diodes. The first diodes I used were BAT49 Schottky diodes. Later, due to their high capacity I had to replace them with germanium 1N60P.
 
@@ -30,21 +30,21 @@ Circuit alignment showed that more critical parts are diodes. The first diodes I
 
 The PCB was designed using KiCAD software.
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_front.png)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_pcb_front.png)
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_back.png)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_pcb_back.png)
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_3d.png)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_pcb_3d.png)
 
 ## Photo Gallery & Development History
 
 ### First Prototype
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_prototype_1.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_prototype_1.jpg)
 
 The first prototype was build on a random size PCB designed in KiCad Eschema. It used through hole mounted SMA female connectors.
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_prototype_1_pcb.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_prototype_1_pcb.jpg)
 
 At first, its performance was constantly starting to deteriorate at frequencies of 12-13MHz and higher. The investigation showed two main reasons:
 
@@ -57,42 +57,42 @@ The PCB was made at home using [toner transfer method](http://www.instructables.
 
 After getting the previous prototype to work well, I decided to put the device in an enclosure box. For that matter I chose a 83x58x35mm plastic box with transparent cover which is sold cheap on AliExpress.
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/enclosure_box.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/enclosure_box.jpg)
 
 I had to redesign the PCB to match the inner dimensions of the box. I also decided to use right angle SMA connectors in this design. As a result I got the following prototype.
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_prototype_2.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_prototype_2.jpg)
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_prototype_2_pcb.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_prototype_2_pcb.jpg)
 
 ### Factory Produced PCB
 
 Later I decided to try to order a factory produced PCB. I ordered a small quantity from ITEAD Studio. As to my taste, they did a great job.
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_pcb.jpg)
 
 The board fits the box perfectly.
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_box.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_pcb_box.jpg)
 
 :warning: **Important Note!**
 Minimum order at the factory was 10 boards from which I need only two. As of December 1, 2016, I have 8 boards, which I can give away. If you'd like to build this SWR-meter for yourself, I can send you a board. Feel free to contact me. 
 
 ### Assembled Device
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_assembled_1.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_pcb_assembled_1.jpg)
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_pcb_assembled_2.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_pcb_assembled_2.jpg)
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_assembled.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_assembled.jpg)
 
 ### PCB Prototypes History
 
 All my home-made PCB prototypes in two photos.
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_history_front.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_history_front.jpg)
 
-![Photo](https://raw.githubusercontent.com/4x5dm/qrp_swr_meter/master/docs/images/swr_meter_history_back.jpg)
+![Photo](https://raw.githubusercontent.com/4x1md/qrp_swr_meter/master/docs/images/swr_meter_history_back.jpg)
 
 ## Links
 
@@ -111,6 +111,8 @@ All my home-made PCB prototypes in two photos.
 ## Questions? Suggestions?
 You are more than welcome to contact me with any questions, suggestions or propositions regarding this project. You can:
 
-1. Visit [my QRZ.COM page](https://www.qrz.com/db/4X5DM)
+1. Visit [my QRZ.COM page](https://www.qrz.com/db/4X1MD)
 2. Visit [my Facebook profile](https://www.facebook.com/Dima.Meln)
 3. Write me an email to iosaaris =at= gmail dot com
+
+73 de 4X1MD ex 4X5DM
