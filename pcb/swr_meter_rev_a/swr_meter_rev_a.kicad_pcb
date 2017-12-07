@@ -3,7 +3,7 @@
   (general
     (links 41)
     (no_connects 2)
-    (area 117.821429 65.374999 169.578571 143.061)
+    (area 117.874999 65.584999 169.525001 142.735001)
     (thickness 1.6)
     (drawings 88)
     (tracks 89)
@@ -1346,7 +1346,7 @@
   (gr_text "QRP SWR Meter" (at 164.465 114.3 90) (layer F.SilkS)
     (effects (font (size 2 2) (thickness 0.3)))
   )
-  (gr_text http://github.com/4x1md/qrp_swr_meter_rev_a (at 167.64 106.68 90) (layer F.Cu)
+  (gr_text http://github.com/4x1md/qrp_swr_meter (at 167.64 104.14 90) (layer F.Cu)
     (effects (font (size 1.25 1.25) (thickness 0.25)))
   )
   (gr_text ANT (at 161.29 69.215 90) (layer F.SilkS)
@@ -1376,7 +1376,7 @@
   (gr_text ANT (at 161.29 69.215 90) (layer B.Cu)
     (effects (font (size 2 2) (thickness 0.4)) (justify mirror))
   )
-  (gr_text http://github.com/4x1md/qrp_swr_meter_rev_a (at 119.38 107.315 270) (layer B.Cu)
+  (gr_text http://github.com/4x1md/qrp_swr_meter (at 119.38 104.14 270) (layer B.Cu)
     (effects (font (size 1.25 1.25) (thickness 0.25)) (justify mirror))
   )
 
