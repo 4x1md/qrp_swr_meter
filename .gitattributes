@@ -1,1 +1,8 @@
-pcb/swr_meter_rev_a/* linguist-detectable=true
+# Languages detection
+# KiCAD
+# *.pro linguist-detectable=true
+*.kicad_pcb linguist-detectable=true
+*.sch linguist-detectable=true
+# Gerbers
+#pcb/phone_rtty_rev_a/gerbers/* linguist-detectable=true
+#pcb/phone_rtty_rev_b/gerbers/* linguist-detectable=true
